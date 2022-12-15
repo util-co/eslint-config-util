@@ -12,7 +12,7 @@ Then, extend util in your .eslintrc:
 
 ```sh
 {
-  "extends": "netflix"
+  "extends": "util"
 }
 ```
 
