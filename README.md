@@ -4,18 +4,16 @@
 
 ## Usage
 
+1. Install the package:
+
 `npm install --save-dev @util-co/eslint-config-util`
 
-Then, extend util in your .eslintrc:
-
-1. Install the package:
+2. Then, extend util in your .eslintrc:
 
 ```sh
 {
    "extends": "@util-co/eslint-config-util"
 }
 ```
-
-2. Add `"extends": "util"` to your `.eslintrc`
 
 🎉
