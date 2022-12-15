@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-util",
-  "version": "1.0.9",
+  "name": "@util-co/eslint-config-util",
+  "version": "1.0.1",
   "author": "Shivam Mehta <shivam@util.co>",
   "description": "An ESLint config for JavaScript projects, brought to you by Util",
   "license": "MIT",

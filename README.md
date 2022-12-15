@@ -4,7 +4,7 @@
 
 ## Usage
 
-`npm install --save-dev eslint-config-util@latest`
+`npm install --save-dev @util-co/eslint-config-util`
 
 Then, extend util in your .eslintrc:
 
@@ -12,7 +12,7 @@ Then, extend util in your .eslintrc:
 
 ```sh
 {
-  "extends": "util"
+   "extends": "@util-co/eslint-config-util"
 }
 ```
 
