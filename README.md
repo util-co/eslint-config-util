@@ -4,16 +4,18 @@
 
 ## Usage
 
-1. Install the package:
+1. Add the following to package.json under devDependencies:
 
-`npm install --save-dev @util-co/eslint-config-util`
+` "@util-co/eslint-config-util": "latest",`
 
-2. Then, extend util in your .eslintrc:
+2. Run `npm i`
+
+3. Then, replace your .eslintrc.js with the following
 
 ```sh
-{
-   "extends": "@util-co/eslint-config-util"
-}
+module.exports = {
+  extends: '@util-co/eslint-config-util'
+};
 ```
 
 🎉
