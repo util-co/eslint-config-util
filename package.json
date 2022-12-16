@@ -1,6 +1,6 @@
 {
   "name": "@util-co/eslint-config-util",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "author": "Shivam Mehta <shivam@util.co>",
   "description": "An ESLint config for JavaScript projects, brought to you by Util",
   "license": "MIT",
@@ -23,6 +23,8 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-testing-library": "^5.0.1",
     "eslint-webpack-plugin": "^3.2.0",
+    "eslint-plugin-no-inline-styles": "^1.0.5",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react-func": "^0.1.18"
   },
   "engines": {
