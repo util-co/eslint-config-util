@@ -80,7 +80,7 @@ module.exports = {
     "react/react-in-jsx-scope": "off",
     "no-empty-pattern": "off",
     "@typescript-eslint/no-empty-interface": "off",
-    "react/no-multi-comp": ['error', { "ignoreStateless": 'true' }],
+    "react/no-multi-comp": ['error', { "ignoreStateless": true }],
     "max-lines-per-function": ["error", 200],
     "react-func/max-lines-per-function": [
       "error",
