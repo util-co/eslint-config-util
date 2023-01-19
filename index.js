@@ -81,7 +81,7 @@ module.exports = {
     "no-empty-pattern": "off",
     "@typescript-eslint/no-empty-interface": "off",
     "react/no-multi-comp": ['error', { "ignoreStateless": true }],
-    "max-lines-per-function": ["error", 200],
+    "max-lines-per-function": ["error", 260],
     "react-func/max-lines-per-function": [
       "error",
       {
